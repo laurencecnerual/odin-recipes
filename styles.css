@@ -1,0 +1,50 @@
+h1 {
+    color: rgb(0, 81, 255);
+    font-size: 52px; 
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h2 {
+    color: rgb(3, 151, 47);
+    font-size: 36px; 
+}
+
+h3 {
+    color: rgb(235, 88, 3);
+    font-size: 28px; 
+    font-style: italic;
+}
+
+p, ul, ol {
+    font-size: 24px; 
+}
+
+ol {
+    color: rgb(255, 238, 0);
+    background-color: rgb(15, 1, 136);
+}
+
+.recipe-list {
+    background-color:rgb(0,0,0);
+    color: rgb(255,255,255);
+    font-size: 36px; 
+    font-weight: bold;
+    font-style: italic;
+}
+
+.desc {
+    font-size: 28px; 
+    font-style: italic;
+}
+
+.tips {
+    color: rgb(255,0,0);
+    font-style: italic;
+}
